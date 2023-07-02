@@ -1,3 +1,19 @@
+# Judgement Player Aid
+
+## Main features
+
+- [ ] Select 3v3 or 5v5 style
+- [ ] Manage heroes in a round-based fashion
+- [ ] Level up heroes and manage any decisions related
+- [ ] Select a god and get recommendations on heroes
+- [ ] Manage HP, buffs/debuffs
+- [ ] Track monster health and buff/debuffs
+- [ ] Track Fate
+- [ ] Searchable store
+- [ ] Purchase items and apply them to heroes
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
